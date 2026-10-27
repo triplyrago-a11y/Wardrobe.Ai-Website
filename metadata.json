@@ -1,0 +1,6 @@
+{
+  "name": "Wardrobe.AI — Digital Wardrobe & AI Styling Showcase",
+  "description": "Official product showcase for Wardrobe.AI, an AI-powered digital wardrobe and outfit styling application currently under development by @dhruv.codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
